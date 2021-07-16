@@ -1,0 +1,33 @@
+#dp{
+    height: 50px;
+    margin: 15px;
+    border-radius: 25px;
+
+}
+
+#sidebar{
+    position: absolute;
+    width: 18%;
+    height: 730px;
+    top: 0;
+    bottom: 0;  /*  this line, and the one above, confer full-height */
+    left: 0;
+}
+.socials{
+    margin-left: 5%;
+    margin-right: 5%;
+    
+    
+}
+.dropdown{
+    margin-left:22% ;
+    /* margin-right: ; */
+    
+}
+.social-links{
+    text-decoration: none;
+}
+.list>a:hover {
+    
+    color: rgb(0, 247, 205);
+  }
