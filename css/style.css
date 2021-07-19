@@ -35,7 +35,7 @@
   }
 #bg{
 
-    width: 100%;
+    width: stretch;
     height: 100%;
 }
 #content{
