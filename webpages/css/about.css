@@ -40,5 +40,22 @@
 }
 #content{
     width: 82%;
-    -left: 18%;
+    margin-left: 18%;
+}
+#header{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+    background-color:#DCF0FA;
+}
+#header>img{
+    border-radius: 50%;
+    height: 15%;
+    width: 15%;
+}
+#about{
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 150% ;
 }
